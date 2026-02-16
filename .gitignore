@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Downloaded music (keep folder, ignore contents)
+download/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+punjabi
+fred

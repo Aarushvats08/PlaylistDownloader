@@ -1,0 +1,10 @@
+# YouTube download engine (Python API, not CLI)
+yt-dlp>=2024.1.1
+
+# Optional: required for audio conversion to MP3
+# Install FFmpeg on your system for MP3 post-processing:
+#   macOS: brew install ffmpeg
+#   Ubuntu: sudo apt install ffmpeg
+#   Windows: https://ffmpeg.org/download.html
+
+
